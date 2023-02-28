@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Books"
+  weight = 200
+  # identifier = "posts"
+  url = "/books/"
+
+  [[main]]
+  name = "Studies"
+  weight = 300
+  identifier = "studies"
+  url = "/studies/"
+
+  [[main]]
+  name = "Teaching"
+  weight = 400
+  identifier = "teaching"
+  url = "/teaching/"
+
+  [[main]]
+  name = "Affiliations"
+  weight = 500
+  identifier = "affiliations"
+  url = "/affiliations/"
+
+  [[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/imprint/"
