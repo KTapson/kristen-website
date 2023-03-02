@@ -1,0 +1,8 @@
+@font-face {
+    font-family: KristenFont;
+    src: url(/fonts/Kristen1_2-Regular.ttf);
+}
+
+.sidebar__introduction-title a {
+    font-family: KristenFont;
+}
