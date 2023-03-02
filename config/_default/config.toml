@@ -3,10 +3,9 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Kristen Tapson"
 
-# theme as hugo module
-theme = "github.com/lxndrblz/anatole"
-# theme as git submodule
-#theme = "anatole"
+[module]
+[[module.imports]]
+  path = 'github.com/lxndrblz/anatole'
 
 
 summarylength = 10
