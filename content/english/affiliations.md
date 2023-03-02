@@ -8,7 +8,7 @@ Current affiliations include:
 
 * [Duke et al lab](https://etal-lab.org)
 * [Minecraft Block Party](https://pandablockparty.org)
-* [Speculative Sensation Lab (S-1)](https://s-1lab.org/)
+* [Speculative Sensation Lab (s-1)](https://s-1lab.org/)
 * [Society for Literature, Science & the Arts](https://litsciarts.org/)
 * [Network for New York School Studies](https://www.nnyss.org/)
 
