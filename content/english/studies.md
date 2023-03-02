@@ -1,4 +1,4 @@
-+++
+  +++
 title = "Studies"
 +++
 
@@ -12,4 +12,4 @@ Description
 
 ## Stereopoetry
 
-Description
+Description2
