@@ -7,19 +7,25 @@ My current research includes three practice-based projects, each one centering o
 ## Another Autecology of the Copperhead
 
 >Despite persistent effort to study the copperhead, progress was slow, especially in the early stages of the investigation. Copperheads were rarely seen engaged in their normal activities, and even when such individuals were found, observing them proved remarkably unrewarding. A copperhead found by chance usually lay motionless for long periods either having “frozen” in the usual reaction to any alarm, or merely resting&mdash;the sluggish behavior that is characteristic of the species. Attempting to observe such a snake severely tried the patience of the investigator. When the snake finally began to move, it might soon be irretrievably lost because of the perfection with which it blended with its background, and the dense concealing vegetation and other cover in the situations frequented.   
->&mdash; Henry S. Fitch, _Autecology of the Copperhead_
+>&mdash; [Henry S. Fitch](https://www.academia.edu/22657918/Henry_S_Fitch_1909_2009_Field_Notes_on_a_Wonderful_Life), _Autecology of the Copperhead_
+
+_Autecology of the Copperhead_ is a longterm study of __
 
 Working in dialogue with Henry S. Fitch’s Autecology of the Copperhead (1960) and A Kansas Snake Community (1999) and drawing on practices both within and outside scientific knowledge making, Another Autecology of the Copperhead follows nocturnal pit viper routines in Durham, NC each summer while tracking a particular species relationship through a series of new technical and epistemological ecologies.
 
 The project began with a simple observation in the summer 2020: at dusk, in July, a stunning number of snakes appeared in the yard. I love snakes. I grew up wanting to study reptiles.
 
-Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_
-
 The project having a gentle presence, how to approach photography at night, how to  The project has been concerned with practical issues throughout -- how to -- tracking snakes, making interventions into the ecosystem -- grappling with the consequences of those actions. For example, In July 2022, I was on crutches and only just beginning to bear weight on my right leg, which created its own observational constraints
 
-The pits on the copperhead - 
+One way to approach _Another Autecology_ might have been to simply apply Fitch's work. He does state 
 
-I take off from Fitch's patient in a rewriting project - 
+less invested in replicating the actual practice of autecology and more invested in developing a writing practice and designing an experience that can 
+
+A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
+
+I take off from Fitch's patient in a rewriting project - Insofar as the project has materialized as one that The pits on the copperhead - 
+
+Experiment inflected by French philosophy of science (particularly Cavailles and Ruyer) and how one makes non-intuitive information legible.thinking experiment in a way that is inflected by French philosophy of science (particularly Cavailles and Ruyer) - bringing the non-intuitive into contact with the human senses”
 
 {{< figure src="/images/copperheads2.png" alt="copperheads2" >}}
 
@@ -56,8 +62,6 @@ Her approach to daily life has some ound poetry in Mayer's _The Art of Science W
 Lozano’s notes often model her ethical commitments without moralizing or imposing them on others. For example, notes such as “all weapons are boomerangs” and “don’t hit back without love” indicate Lozano’s rejection of intentional violence in all of its forms. Humor is a tool she uses to diffuse the imposition of end-directed controls and to disrupt normative modes of perception surrounding mundane everyday experiences with an earnest grappling that emerges, counterintuitively, through the artifice of her project setups.
 
 My project takes Lozano's   Notes that appear in Private Book __ and -- her reimagining of human form.
-
-thinking experiment in a way that is inflected by French philosophy of science (particularly Cavailles and Ruyer) - bringing the non-intuitive into contact with the human senses”
 
 Wants to have other ways of assessing the human body:
 
