@@ -24,7 +24,7 @@ I take off from Fitch's patient in a rewriting project -
 ## Lab Notebook Prototyping
 
 >“Art museum on one side & a science frontier research lab on the other.”   
->&mdash; Lee Lozano, _Private Book 5_, p. 51
+>&mdash; Lee Lozano, _Private Book 5_
 
 Lee Lozano's jubilent notetaking practice -- Her particular way of presenting her desire for transparency. Takes her self-experimental ideation seriously as a groundwork for prototyping devices. She is dealing with serious questions. Perhaps most famous for dropping out of the New York scene at what could have been the height of her fame.
 
