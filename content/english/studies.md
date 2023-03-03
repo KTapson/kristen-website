@@ -6,8 +6,8 @@ My current research includes three practice-based projects, each one centering o
 
 ## Another Autecology of the Copperhead
 
-Despite persistent effort to study the copperhead, progress was slow, especially in the early stages of the investigation. Copperheads were rarely seen engaged in their normal activities, and even when such individuals were found, observing them proved remarkably unrewarding. A copperhead found by chance usually lay motionless for long periods either having “frozen” in the usual reaction to any alarm, or merely resting—-the sluggish behavior that is characteristic of the species. Attempting to observe such a snake severely tried the patience of the investigator. When the snake finally began to move, it might soon be irretrievably lost because of the perfection with which it blended with its background, and the dense concealing vegetation and other cover in the situations frequented.   
-&mdash; Henry S. Fitch, _Autecology of the Copperhead_
+>Despite persistent effort to study the copperhead, progress was slow, especially in the early stages of the investigation. Copperheads were rarely seen engaged in their normal activities, and even when such individuals were found, observing them proved remarkably unrewarding. A copperhead found by chance usually lay motionless for long periods either having “frozen” in the usual reaction to any alarm, or merely resting—-the sluggish behavior that is characteristic of the species. Attempting to observe such a snake severely tried the patience of the investigator. When the snake finally began to move, it might soon be irretrievably lost because of the perfection with which it blended with its background, and the dense concealing vegetation and other cover in the situations frequented.   
+>&mdash; Henry S. Fitch, _Autecology of the Copperhead_
 
 Working in dialogue with Henry S. Fitch’s Autecology of the Copperhead (1960) and A Kansas Snake Community (1999) and drawing on practices both within and outside scientific knowledge making, Another Autecology of the Copperhead follows nocturnal pit viper routines in Durham, NC each summer while tracking a particular species relationship through a series of new technical and epistemological ecologies.
 
@@ -23,8 +23,8 @@ I take off from Fitch's patient in a rewriting project -
 
 ## Lab Notebook Prototyping
 
-“Art museum on one side & a science frontier research lab on the other.”   
-&mdash; Lee Lozano, _Private Book 5_, p. 51
+>“Art museum on one side & a science frontier research lab on the other.”   
+>&mdash; Lee Lozano, _Private Book 5_, p. 51
 
 Lee Lozano's jubilent notetaking practice -- Her particular way of presenting her desire for transparency. Takes her self-experimental ideation seriously as a groundwork for prototyping devices. She is dealing with serious questions. Perhaps most famous for dropping out of the New York scene at what could have been the height of her fame.
 
@@ -72,8 +72,8 @@ Lozano clearly never invests much in the culture of celebrity or fame, and despi
 
 ## Stereopoetry
 
-"Science is practical in the highest sense of the word."   
-&mdash; J.H. van't Hoff, _Imagination in Science_
+>"Science is practical in the highest sense of the word."   
+>&mdash; J.H. van't Hoff, _Imagination in Science_
 
 For a long time, I have been fascinated with stereochemistry and molecular shape. Connectivity dictates shape -- without a thorough consideration of shape, it is impossible to understand the bigger picture of meaning. Spatial relationship as an organizing - same connectivity but different orientation in space gives rise to different properties. Reaching back to a fundamental of matter. My project, which I plan to present alongside student work in the spring exhibition for our [Laboratory Art in Practice](https://bassconnections.duke.edu/project-teams/laboratory-art-practice-building-model-artscience-lab-duke-2022-2023) Bass Connection team, returns to van't Hoff's concept of the molecular model  
 
