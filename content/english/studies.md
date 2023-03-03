@@ -45,6 +45,8 @@ Serra called & I told him some of this but not the real warehouse idea which I j
 
 My approach to Lozano's work focuses on the published facsimiles of her nine small memobooks, which she uses as diaries, day planners, and commonplace books in which she jots down addresses, phone numbers, random thoughts, unit conversions, conversation snippets, reading reflections, unattributed quotes, event reviews, and up-to-the-minute commentary. Her notes from 1968 to 1970 cover more than 300 tiny pages. These are not the notes of an ingenue just landing on the scene; Lozano is 37 when she begins Book 1, 39 when she completes Book 9, and 41 when she edits the entire series of notebooks. She changes her process in Book 4, leaving the back of each page blank for adding notes later. Sometimes she addresses a particular friend, and it is unclear whether she is documenting an actual conversation, making a note-to-self for later, or projecting herself into a conversation and improvising her friend’s presumed response. In other words, we do not know much about the context for many of her notes, even though they often suggest conversational immediacy: “Ed, do you think I’d be bullshitting too much if I said I was studying mathematics? It’s more like I’m studying mathematicians.” (Bk 9, p. 33).
 
+{{< figure src="/images/ll_terseness.jpg" alt="ll terseness" class="left" >}}
+
 While her art practice necessitates that she "compromise" herself repeatedly by subjecting herself to self-experimental conditions imposed by daily life, she is notoriously uncompromising in her choice of materials. Finding out that her favorite paints are going out of production leads her to completely rethink the future of her art practice: "re the discontinuing of shiva standard line of ferrous colors: undercurrent of excitement at prospect of being forced to make a change due to circumstances entirely beyond my control” (Book 2, p. 29). Later, she writes, “Decision that I will stop painting when the shiva standard oil ferrous line of colors runs out” (89).
 
 Necessity of compromising herself as she generates an alternative sign system -- sampling her own mind as she experiments -- 
@@ -55,12 +57,15 @@ Lozano’s notes often model her ethical commitments without moralizing or impos
 
 My project takes Lozano's   Notes that appear in Private Book __ and -- her reimagining of human form.
 
-Proposes technologically-mediated forms of transparency
-
 thinking experiment in a way that is inflected by French philosophy of science (particularly Cavailles and Ruyer) - bringing the non-intuitive into contact with the human senses”
 
+Wants to have other ways of assessing the human body:
 
-> Middle-of-the-night thoughts: “Random cant-sleep-due-to-brain-overload-thoughts: since I’ve been consuming much more oil in my diet(& on my body) I seem to be getting more transparent. (oil spots on paper are transparent, etc). Want more transparency! (See Light Piece & fantasy abt matter becoming more transparent the more light on it. Also description of lit rose, Physics Today BK review) Emotions/needs/ideas --> More transparent!  (Book 7)
+{{< figure src="/images/LL1Page6.jpg" alt="LL1Page6" class="right" >}}
+
+Proposes technologically-mediated forms of transparency:
+
+> Middle-of-the-night thoughts: “Random cant-sleep-due-to-brain-overload-thoughts: since I’ve been consuming much more oil in my diet(& on my body) I seem to be getting more transparent. (oil spots on paper are transparent, etc). Want more transparency! (See Light Piece & fantasy abt matter becoming more transparent the more light on it. Also description of lit rose, Physics Today BK review) Emotions/needs/ideas &mdash;> More transparent!  (Book 7)
 
 > Whoever or whatever designed human beings and all evolutionary forms that led up to them was a bad artist who took the idea of form follows            function to its ultimate disaster. Any rumination about mankind’s shape will disclose how exceedingly ugly a human is ... If we were more              intelligent we would be shaped like spheres which at rest had perhaps smooth reflective surfaces. We could change from solid to liquid to              gaseous states of matter or become nothing but a charge or a force. Our material & color would vary at our will, we’d roll, float or fly.
 
