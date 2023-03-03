@@ -5,4 +5,5 @@
 
 .sidebar__introduction-title a {
     font-family: KristenFont;
+    text-transform: lowercase;
 }
