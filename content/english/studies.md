@@ -148,7 +148,7 @@ Following this comparison between the experimental contributions of Vauquelin an
 
 Henry S. Fitch, [_Autecology of the Copperhead_(1960)](https://webapps.fhsu.edu/ksherp/bibFiles/6437.pdf); Lee Lozano, _Language Pieces_ (2018); Lee Lozano's Private Books (pub. 2021); Alan J. Rocke, [_The Quiet Revolution_ (1993)](https://publishing.cdlib.org/ucpressebooks/view?docId=ft5g500723;query=;brand=ucpress); J.H. van't Hoff, [_Imagination in Science_](https://link.springer.com/chapter/10.1007/978-3-662-38565-4_3) 
 
-Image sources: plate 20 from Fitch's _Autecology_; July 12, 2021 copperhead photo by Kristen Tapson; Oct. 13, 1969 note in Lozano's _Private Book 4_; May 14, 1968 note in Lozano's _Private Book 1_; cover of a personal copy of _Imagination in Science__
+Image sources: Edward Packard's _You are a Shark_ (1985); May 14, 1968 note in Lozano's _Private Book 1_; plate 20 from Fitch's _Autecology_; July 12, 2021 copperhead photo by Kristen Tapson; Oct. 13, 1969 note in Lozano's _Private Book 4_; cover of a personal copy of _Imagination in Science__
 
 
 
