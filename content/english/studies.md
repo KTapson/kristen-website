@@ -21,6 +21,8 @@ The pits on the copperhead -
 
 I take off from Fitch's patient in a rewriting project - 
 
+{{< figure src="/images/copperheads2.jpg" alt="Copperheads2" >}}
+
 ## Lab Notebook Prototyping
 
 >“Art museum on one side & a science frontier research lab on the other.”   
@@ -58,11 +60,11 @@ Proposes technologically-mediated forms of transparency
 thinking experiment in a way that is inflected by French philosophy of science (particularly Cavailles and Ruyer) - bringing the non-intuitive into contact with the human senses”
 
 
-Middle-of-the-night thoughts: “Random cant-sleep-due-to-brain-overload-thoughts: since I’ve been consuming much more oil in my diet(& on my body) I seem to be getting more transparent. (oil spots on paper are transparent, etc). Want more transparency! (See Light Piece & fantasy abt matter becoming more transparent the more light on it. Also description of lit rose, Physics Today BK review) Emotions/needs/ideas --> More transparent! – (book 7)
+> Middle-of-the-night thoughts: “Random cant-sleep-due-to-brain-overload-thoughts: since I’ve been consuming much more oil in my diet(& on my body) I seem to be getting more transparent. (oil spots on paper are transparent, etc). Want more transparency! (See Light Piece & fantasy abt matter becoming more transparent the more light on it. Also description of lit rose, Physics Today BK review) Emotions/needs/ideas --> More transparent!  (Book 7)
 
 > Whoever or whatever designed human beings and all evolutionary forms that led up to them was a bad artist who took the idea of form follows            function to its ultimate disaster. Any rumination about mankind’s shape will disclose how exceedingly ugly a human is ... If we were more              intelligent we would be shaped like spheres which at rest had perhaps smooth reflective surfaces. We could change from solid to liquid to              gaseous states of matter or become nothing but a charge or a force. Our material & color would vary at our will, we’d roll, float or fly.
 
-She elaborates on these notes elsewhere on the same day, and that extended version is collected among her _Language Pieces_. In this version, her first paragraph above is her “prologue,” and it precedes a more substantive dive into what she calls “redesign the human being suggestions”: 
+She elaborates on these notes elsewhere on the same day, and that extended version is collected among her _Language Pieces_. In this version, her first paragraph above is her “prologue,” and what follows is a more substantive dive into what she calls “redesign the human being suggestions”: 
 
 > Substitute a dashboard or a control panel for the face. Let it be easily accessable for scanning by the host as well as other beings. On the           control panel are gauges & dials indicating continuously changing states of temperature, respiration, metabolism, pulserate, heartbeat,               adrenalin count, gonad charge, balance & many other body systems. This info being readily accessible to all might eliminate the peculiarly human       habit of telling lies, the tiresome question “how are you?”
 
