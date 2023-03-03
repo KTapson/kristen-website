@@ -21,7 +21,7 @@ One way to approach _Another Autecology_ might have been to simply apply Fitch's
 
 less invested in replicating the actual practice of autecology and more invested in developing a writing practice and designing an experience that can 
 
-{{< figure src="/images/ktwebsite.png" alt="ktwebsite" >}}
+{{< figure src="/images/ktwebsite.png" alt="ktwebsite" class="right" >}}
 
 A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
 
