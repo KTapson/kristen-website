@@ -2,7 +2,7 @@
 title = "Studies"
 +++
 
-My current research involves three practice-based projects, each one centering on an alternative reading of a project by a particular experimental artist or scientist. These projects are Henry S. Fitch's _Autecology of the Copperhead_ (1960), Lee Lozano's daily notebooks from the late 1960s, and J.H. van't Hoff's theory of the tetrahedral carbon and his related lecture _Imagination in Science_ (1878). In the descriptions that follow, I contextualize these projects and address some of the ways I understand them to relate to one another.
+My current research includes three practice-based projects, each one centering on an alternative reading of a project by a particular experimental artist or scientist. These projects are Henry S. Fitch's _Autecology of the Copperhead_ (1960), Lee Lozano's daily notebooks from the late 1960s, and J.H. van't Hoff's theory of the tetrahedral carbon and his related lecture _Imagination in Science_ (1878). In the descriptions that follow, I contextualize these projects and address some of the ways I understand them to relate to one another.
 
 ## Another Autecology of the Copperhead
 
