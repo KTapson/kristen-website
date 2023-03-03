@@ -5,5 +5,5 @@
 
 .sidebar__introduction-title a {
     font-family: KristenFont;
-    text-transform: lowercase;
+    text-transform: lowercase; /* lowercase | capitalize | uppercase */
 }
