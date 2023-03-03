@@ -40,10 +40,10 @@ Science calls herself a highentist - get rid of gravity.
 
 In terms of the more specific content of the notebooks, Lozano is constantly proposing new pieces or reporting updates on in-progress pieces. Reporting on a conversation with Richard Serra, her friend and an artist she respects, she gives a somewhat brutal review of the opening of his solo exhibition at Castelli Warehouse in late 1969 that includes her thoughts on what she would have done differently. 
 
-> <ins> Dec 16, 69</ins>
+> <ins> Dec 16, 69</ins>.  
 Serra’s warehouse show did not give a trip. Some of the pieces were exciting & most of the people were uptight (till I passed the grass, maybe.) The show looked like “art floor,” dept store. (Why not set up that show in a real warehouse with huge crates or such?). Ropes made it worse.
 >
-> <ins> Dec 17, 69</ins>
+> <ins> Dec 17, 69</ins>.  
 Serra called & I told him some of this but not the real warehouse idea which I just now got. (Bk 5, p. 15-16)
 
 My approach to Lozano's work focuses on the published facsimiles of her nine small memobooks, which she uses as diaries, day planners, and commonplace books in which she jots down addresses, phone numbers, random thoughts, unit conversions, conversation snippets, reading reflections, unattributed quotes, event reviews, and up-to-the-minute commentary. Her notes from 1968 to 1970 cover more than 300 tiny pages. These are not the notes of an ingenue just landing on the scene; Lozano is 37 when she begins Book 1, 39 when she completes Book 9, and 41 when she edits the entire series of notebooks. She changes her process in Book 4, leaving the back of each page blank for adding notes later.
