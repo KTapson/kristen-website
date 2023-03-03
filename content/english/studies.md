@@ -2,11 +2,22 @@
 title = "Studies"
 +++
 
-My current research includes three practice-based projects, each one centering on an alternative reading of a project by a particular experimental artist or scientist. These projects are Henry S. Fitch's _Autecology of the Copperhead_ (1960), Lee Lozano's daily notebooks from the late 1960s, and J.H. van't Hoff's theory of the tetrahedral carbon and his related lecture _Imagination in Science_ (1878). In the descriptions that follow, I contextualize these projects and the address some of the ways I understand them to relate to one another.
+My current research includes three practice-based projects, each one centering on an alternative reading of a project by a particular experimental artist or scientist. These projects are Henry S. Fitch's _Autecology of the Copperhead_ (1960), Lee Lozano's daily notebooks from the late 1960s, and J.H. van't Hoff's theory of the tetrahedral carbon and his related lecture _Imagination in Science_ (1878). In the descriptions that follow, I contextualize these projects and address some of the ways I understand them to relate to one another.
 
 ## Another Autecology of the Copperhead
 
+Despite persistent effort to study the copperhead, progress was slow, especially in the early stages of the investigation. Copperheads were rarely seen engaged in their normal activities, and even when such individuals were found, observing them proved remarkably unrewarding. A copperhead found by chance usually lay motionless for long periods either having “frozen” in the usual reaction to any alarm, or merely resting—-the sluggish behavior that is characteristic of the species. Attempting to observe such a snake severely tried the patience of the investigator. When the snake finally began to move, it might soon be irretrievably lost because of the perfection with which it blended with its background, and the dense concealing vegetation and other cover in the situations frequented.
+- Henry S. Fitch, _Autecology of the Copperhead_
+
 Working in dialogue with Henry S. Fitch’s Autecology of the Copperhead (1960) and A Kansas Snake Community (1999) and drawing on practices both within and outside scientific knowledge making, Another Autecology of the Copperhead follows nocturnal pit viper routines in Durham, NC each summer while tracking a particular species relationship through a series of new technical and epistemological ecologies.
+
+The project began with a simple observation in the summer 2020: at dusk, in July, a stunning number of snakes appeared in the yard. I love snakes. I grew up wanting to study reptiles.
+
+Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_
+
+The project having a gentle presence, how to approach photography at night, how to  The project has been concerned with practical issues throughout -- how to -- tracking snakes, making interventions into the ecosystem -- grappling with the consequences of those actions. For example, In July 2022, I was on crutches and only just beginning to bear weight on my right leg, which created its own observational constraints
+
+The pits on the copperhead - 
 
 I take off from Fitch's patient in a rewriting project - 
 
@@ -19,19 +30,34 @@ Lee Lozano's jubilent notetaking practice -- Her particular way of presenting he
 
 calls herself a highentist - get rid of gravity.
 
+In terms of the more specific content of the notebooks, Lozano is constantly proposing new pieces or reporting updates on in-progress pieces. Reporting on a conversation with Richard Serra, her friend and an artist she respects, she gives a somewhat brutal review of the opening of his solo exhibition at Castelli Warehouse in late 1969 that includes her thoughts on what she would have done differently. 
+
+<ins>Dec 16, 69</ins>
+Serra’s warehouse show did not give a trip. Some of the pieces were exciting & most of the people were uptight (till I passed the grass, maybe.) The show looked like “art floor,” dept store. (Why not set up that show in a real warehouse with huge crates or such?). Ropes made it worse.
+
+<ins>Dec 17, 69</ins>
+Serra called & I told him some of this but not the real warehouse idea which I just now got.
+
+(Bk 5, p. 15-16)
+
+
+
 My approach to Lozano's work focuses on the published facsimiles of her nine small memobooks, which she uses as diaries, day planners, and commonplace books in which she jots down addresses, phone numbers, random thoughts, unit conversions, conversation snippets, reading reflections, unattributed quotes, event reviews, and up-to-the-minute commentary. Her notes from 1968 to 1970 cover more than 300 tiny pages. These are not the notes of an ingenue just landing on the scene; Lozano is 37 when she begins Book 1, 39 when she completes Book 9, and 41 when she edits the entire series of notebooks. She changes her process in Book 4, leaving the back of each page blank for adding notes later. Sometimes she addresses a particular friend, and it is unclear whether she is documenting an actual conversation, making a note-to-self for later, or projecting herself into a conversation and improvising her friend’s presumed response. In other words, we do not know much about the context for many of her notes, even though they often suggest conversational immediacy: “Ed, do you think I’d be bullshitting too much if I said I was studying mathematics? It’s more like I’m studying mathematicians.” (Bk 9, p. 33).
 
-While her art practice necessitates that she "compromise" herself repeatedly by subjecting herself to self-experimental conditions imposed by daily life, she is notoriously uncompromising in her choice of materials. Finding out that her favorite paints are going out of production leads her to completely rethink the future of her art practice: "re the discontinuing of shiva standard line of ferrous colors: undercurrent of excitement at prospect of being forced to make a change due to circumstances entirely beyond my control” (Private Book 2, 29). Later, she writes, “Decision that I will stop painting when the shiva standard oil ferrous line of colors runs out” (89).
+While her art practice necessitates that she "compromise" herself repeatedly by subjecting herself to self-experimental conditions imposed by daily life, she is notoriously uncompromising in her choice of materials. Finding out that her favorite paints are going out of production leads her to completely rethink the future of her art practice: "re the discontinuing of shiva standard line of ferrous colors: undercurrent of excitement at prospect of being forced to make a change due to circumstances entirely beyond my control” (Book 2, p. 29). Later, she writes, “Decision that I will stop painting when the shiva standard oil ferrous line of colors runs out” (89).
 
 Necessity of compromising herself as she generates an alternative sign system -- sampling her own mind as she experiments -- 
 
-Found poetry in Mayer's _The Art of Science Writing_ : __
+Her approach to daily life has some ound poetry in Mayer's _The Art of Science Writing_ : __
 
 Lozano’s notes often model her ethical commitments without moralizing or imposing them on others. For example, notes such as “all weapons are boomerangs” and “don’t hit back without love” indicate Lozano’s rejection of intentional violence in all of its forms. Humor is a tool she uses to diffuse the imposition of end-directed controls and to disrupt normative modes of perception surrounding mundane everyday experiences with an earnest grappling that emerges, counterintuitively, through the artifice of her project setups.
 
 My project takes Lozano's   Notes that appear in Private Book __ and -- her reimagining of human form.
 
 Proposes technologically-mediated forms of transparency
+
+thinking experiment in a way that is inflected by French philosophy of science (particularly Cavailles and Ruyer) - bringing the non-intuitive into contact with the human senses”
+
 
 Middle-of-the-night thoughts: “Random cant-sleep-due-to-brain-overload-thoughts: since I’ve been consuming much more oil in my diet(& on my body) I seem to be getting more transparent. (oil spots on paper are transparent, etc). Want more transparency! (See Light Piece & fantasy abt matter becoming more transparent the more light on it. Also description of lit rose, Physics Today BK review) Emotions/needs/ideas --> More transparent! – (book 7)
 
@@ -47,17 +73,18 @@ Lozano clearly never invests much in the culture of celebrity or fame, and despi
 
 ## Stereopoetry
 
-Controversial history of the reception of .
+"Science is practical in the highest sense of the word."
+- J.H. van't Hoff, _Imagination in Science_
 
-Connectivity dictates shape -- without a thorough consideration of shape, it is impossible to understand the bigger picture of meaning. Spatial relationship as an organizing - same connectivity but different orientation in space gives rise to different properties. Reaching back to a fundamental of matter. My project for the spring exhibition is to 
+For a long time, I have been fascinated with stereochemistry and molecular shape. Connectivity dictates shape -- without a thorough consideration of shape, it is impossible to understand the bigger picture of meaning. Spatial relationship as an organizing - same connectivity but different orientation in space gives rise to different properties. Reaching back to a fundamental of matter. My project, which I plan to present alongside student work in the spring exhibition for our [Laboratory Art in Practice](https://bassconnections.duke.edu/project-teams/laboratory-art-practice-building-model-artscience-lab-duke-2022-2023) Bass Connection team, returns to van't Hoff's concept of the molecular model  
 
-To interject some personal narrative into this project: in my first semester of graduate school, I wrote an essay historicizing the concept of imagination across literary and scientific texts for my cohort's proseminar. (At the time of the presentation, I was 22 years old). I presented a hybrid science- I remember the room got very quiet afterward. We had been talking about literary theory all semester. Finally, a friend gently suggested that I should return to Derrida's critique of Levi-Strauss. She was too nice to say so explicitly, but the implication was that my project was hopelessly regressive in its attempt to illuminate a key moment in the history of structural organic chemistry and collide it with - as a way of understanding . A new new structuralism. I thought my friends were probably right. So I dropped it, and I _was_ able to complicate my . Yet, I never lost my energy for the of undisciplined or ___ reconceptualizations of the taken-for-granted fundamentals of a field.  , has formed a crucial pedagogical -- that the moment of encounter with another -- had at the time only wished to have someone to support my work that would hold this interest in real science next to something that could complicate and . Now, when I am mentoring students, I take great pleasure in sharing good advice from my training when you are working in a space or a sign system that might quickly, and incorrectly, subsume novelty under existing frameworks. that  I "generate the criteria for your own reception"--a quote I always properly attribute--and I have watched with pleasure as my students react with enthusiasm to this prospect, often writing it down. 
+Some personal history guides me: in my first semester of graduate school, I wrote an essay historicizing the concept of imagination across literary and scientific texts for my cohort's proseminar. (At the time of the presentation, I was 22 years old). I presented a hybrid science-lit talk that literally included drawing models on the board. I remember the room got very quiet afterward. We had been talking about literary theory all semester. Finally, a friend gently suggested that I should return to Derrida's critique of Levi-Strauss. She was too nice to say so explicitly, but the implication was that my project was hopelessly regressive in its attempt to collide a key moment in the history of structural organic chemistry with key moments in literary theory. I was becoming an advocate of something like a new structuralism, which had already been disproven. I thought my friends were probably right. So I dropped it, and I _was_ able to complicate my views as I became more disciplined. I hoped to have someone support my work that would help me hold onto this interest in real scientific practice next to something that would actually mobilize its possibility. And I never lost my energy for moments when a person encounters a new-to-them field without any immersion in its taken-for-granted fundamentals and presents a natural yet radical alternative vision. New fields can form or organize this way. This enduring commitment to interdisciplinary encounters forms a crucial pillar of my approach to pedagogy. When I mentor students now, I am often working with students trying to navigate their passion for serious (and sometimes seriously playful) considerations of scientific practice in the context of art. When you are working in a space or a sign system that might quickly, and incorrectly, subsume novelty under existing frameworks, it is worthwhile to have supporters who will hold space for possibility. "What you have to do is generate the criteria for your own reception," I say, always properly attributing the quote to my training, and then I watch with pleasure as my students react with enthusiasm to this prospect, usually writing down the instruction. 
 
-Alan J. Rocke's sympathetic book on German chemist Hermann Kolbe helpfully contextualizes the circumstances surrounding the controversial reception of van't Hoff's theory:
+Now I would like to turn somewhat abruptly to the specific context of this significant and peculiar moment in the history of structural organic chemistry. Alan J. Rocke's sympathetic book on German chemist Hermann Kolbe helpfully draws attention to the circumstances surrounding the controversial reception of van't Hoff's theory:
 
 A sketch of the theory was published in Dutch in 1874, and a longer French version appeared the next year. The first enthusiastic advocate of van't Hoff's theory was Johannes Wislicenus, professor at Wurzburg, who was a mid-career structural organic chemist with a fine reputation; he had even published some thoughts on three-dimensional (physical) isomerism himself. Wislicenus asked his student F. Hermann to prepare a German translation of van't Hoff's "Chemistry in Space," wrote an enthusiastic preface, and sold the work to Vieweg Verlag. Kolbe found out about this translation almost immediately because the Vieweg company had a long-established policy of automatically sending proof sheets of all their organic-chemical publications to Kolbe. (328)
 
-In short, Kolbe mocks, taunts, and pathologizes van't Hoff in print. Consistently, he attacks where he perceives weakness. While I am not interested in emphasizing the terms of Kolbe's sustained criticism, I do want to draw attention to the details of the situation's unfolding in order to then refocus attention on how van't Hoff later addresses the nature of experimentation. As Rocke points out, van't Hoff embodied a particularly infuriating form of researcher to Kolbe: "Kolbe found his ideal model for the "metachemist" pursuing "transcendental chemistry" when the then-unknown J.H. van't Hoff unveiled his theory of the asymmetric carbon atom, the first step toward chemistry considered in three dimensions--soon to be called stereo-chemistry" (328).
+Kolbe, with no personal justification for disliking van't Hoff, therefore encounters the theory of the tetrahedral carbon early in its reception. In response, he publicly (in print) mocks, taunts, and pathologizes van't Hoff. Consistently, he attacks where he perceives weakness. While I am reluctant to emphasize Kolbe's sustained criticism, I do want to draw attention to the details of the situation's unfolding in order to then refocus attention on how van't Hoff later incorporates this critique into the way he addresses the nature of experimentation. As Rocke points out, van't Hoff embodied a particularly infuriating form of researcher to Kolbe: "Kolbe found his ideal model for the "metachemist" pursuing "transcendental chemistry" when the then-unknown J.H. van't Hoff unveiled his theory of the asymmetric carbon atom, the first step toward chemistry considered in three dimensions--soon to be called stereo-chemistry. Van't Hoff, who had studied with Kekulé and Wurtz, first found employment at the Utrecht Veterinary College..." (328).
 
 Famously, Kolbe takes aim at van't Hoff in lively, personal terms:
 
@@ -71,9 +98,9 @@ As Rocke demonstrates, the controversy becomes a key topic in the scientific cor
 
 You cannot possibly have studied van't Hoff's essay ... [for] how else could you have reproached me (by logic I do not understand) for a tendency toward spiritualism, or held against the young van't Hoff his position at a veterinary school, or against the translator Herrmann, who was my assistant and solely due to pressing external circumstances accepted a position at the agricultural institute in Heidelberg! I have never doubted that it is a holy zeal for the truth that guides your critical pen; but on the other hand I regret that you do not seem to concede any possibility of your own fallibility, which everyone must grant ... I know that I can err, but I also know that I have no cause to allow myself to be struck from the ranks of exact scientists, for I as well as you have the will to serve the truth ... (332-33).
 
-Kolbe also elsewhere rails against to August Kekule--who is perhaps most well known now for his dream of a snake eating its tail and subsequent conceptualization of the ring shape of benzene--and draws Jacob Volhard into the fray: 
+Kolbe also elsewhere rails against to August Kekulé--who is perhaps most well known now for his dream of a snake eating its tail and subsequent conceptualization of the ring shape of benzene--and draws Jacob Volhard into the fray: 
 
-And as for the form, I ask you: What do you care about Kekule's style or his classical education? Consideration for K's scientific accomplishments, indeed mere collegial respect ought to have stopped you from treating this man as if you were a teacher looking over a schoolboy's assignments and correcting his mistakes .... I beseech you, no more such intemperate critiques! More tolerance and respect for scientists who have made and are still making their contributions! (332)
+And as for the form, I ask you: What do you care about Kekulé's style or his classical education? Consideration for K's scientific accomplishments, indeed mere collegial respect ought to have stopped you from treating this man as if you were a teacher looking over a schoolboy's assignments and correcting his mistakes .... I beseech you, no more such intemperate critiques! More tolerance and respect for scientists who have made and are still making their contributions! (332)
 
 Time and time again, Kolbe begins with an assumption about the right answer and correct outcome, then he exerts his authority and control to enforce his worldview regardless of the cost. But, importantly here, he ends up being wrong about the science. A new field was opening up.  
 
@@ -101,6 +128,8 @@ I make these words my own in order to describe what research is without imaginat
 **Sources**
 
 Henry S. Fitch, [_Autecology of the Copperhead_(1960)](https://webapps.fhsu.edu/ksherp/bibFiles/6437.pdf); Lee Lozano, _Language Pieces_ (2018); Lee Lozano, _Private Book 2_, _Private Book 4_, _Private Book 6_(2021); Alan J. Rocke [_The Quiet Revolution_ (1993)](https://publishing.cdlib.org/ucpressebooks/view?docId=ft5g500723;query=;brand=ucpress); J.H. van't Hoff, [_Imagination in Science_](https://link.springer.com/chapter/10.1007/978-3-662-38565-4_3) 
+
+Image sources: plate 20 from Fitch's _Autecology_ with copperhead photo by Kristen Tapson; Oct. 13, 1969 note in Lozano's _Private Book 4_; May 14, 1968 note in Lozano's _Private Book 1_; cover of a personal copy of _Imagination in Science__
 
 
 
