@@ -11,41 +11,67 @@ My current research includes three practice-based projects, each one centering o
 
 I have always loved reptiles and especially snakes. When I was child, I thought I would be a biologist. Growing up in North Carolina, I encountered snakes often. Rarely, though, do I ever remember seeing a copperhead. I first read Fitch's _Autecology of the Copperhead_ in the summer of 2020, and I instantly sensed a kindred spirit. Despite my enthusiasm for snakes, though, I didn't set out to read the book for pleasure or entertainment. I was dealing with a snake problem, and I sought the book out because I needed trusted advice.
 
-In July of 2020, at dusk, I was sitting outside with my children in our backyard. My daughters, 4 and 7 years old at the time, were playing in the sandbox. My son, then 9, was running around the yard. I think he was chasing fireflies. I remember I was only wearing socks. Then, one of my daughters saw a copperhead near the sandbox. I froze, and the kids panicked. I asked everyone to stay still while I went over and picked up my youngest daughter. As I started to carry her toward the house, though, another copperhead appeared in my way. I got my daughter to safety on the deck, then I went back for my other daughter. We had spotted a third copperhead by the time I got everyone back to the house. It would have been funny if it hadn't been so upsetting. It may have been funny to watch from the outside. From the safety of an elevated deck, we watched the snakes. Over the next few days, we noticed that the snakes. My older daughter started to document when and where we saw snakes. I didn't know it at the time, but I was starting a research project. 
+Fitch is indeed regarded as a trusted and beloved figure in the community of scientists and naturalists with whom he interacted across his career. _Autecology of the Copperhead_ is a long-term ecological study of a particular snake species on the University of Kansas Natural History Reservation. Henry S. Fitch his fieldwork and known for his . Fitch's work on snakes contributing to conservation efforts and rethinking the dangerousness of copperheads, the knowledge about snakes that he contributed to his field became . Natural history Discussion of snake anatomy, the public response to snakes, Taking into account the copperhead's natural history and ecology, Fitch sets out to study controversial organism, ultimately dedicating much of his career to this creature.
 
-Like many people, I spent more time at home during the pandemic. As someone who cherishes mundane aspects of everyday life, I found new details to notice. But, for the first time in my life, I also felt I had exhausted every . and found new ways of attending to . While the silver lining of pandemic-era writing is incredible array of some people produced amazing of noticing and connection. But, at least at first, I felt very unlucky about the project that nominated itself to me. The number of snakes in the yard seemed absurd. I bought a snake grabber and some buckets. In the summer of 2020, I relocated 20 copperheads to a local nature preserve. (And I had to look up how many venomous snakes one can transport at a given time without a license). In 2021, I relocated 15 more. The number of snakes in the yard seemed so endless at that time that I honestly did not think through the impact of thes. In July 2022, I didn't relocate any snakes. Only 3 different copperheads were observed in the yard. Throughout this process, I wrote in composition books left over from my kids' school supplies. I didn't understand this writing to have much significance at the time, and I lost the first book.
+In July of 2020, at dusk, I was sitting outside with my children in our backyard. My daughters, 4 and 7 years old at the time, were playing in the sandbox. My son, then 9, was running around the yard. I think he was chasing fireflies. I remember I was wearing socks but no shoes. Then, one of my daughters saw a copperhead near the sandbox. I froze, and the kids panicked. I asked everyone to stay still while I went over and picked up my youngest daughter. As I started to carry her toward the house, though, another copperhead appeared in my way. I got my daughter to safety on the deck, then I went back for my other daughter. We had spotted a third copperhead by the time I got everyone back to the house. It would have been funny if it hadn't been so upsetting. It may have been funny to watch from the outside. From the safety of an elevated deck, we watched the snakes. Over the next few days, we noticed that the snakes seemed to emerge at the same time every night and then disappear just as quickly as they appeared. There was no danger during the day. My older daughter started to document when and where we saw snakes. Unluckily, they seemed to congregate around the sandbox. I didn't know it at the time, but I was starting a research project. 
 
-I sought advice and read and reread the _Autecology_ as a source of practical advice, detailed research that appealed to my love of endurance projects, and amusing anecdotes. According to Fitch, I seemed to be doing the right thing:
+Like many people, I spent more time at home during the pandemic. As someone who cherishes mundane aspects of everyday life, I found new details to notice. But, for the first time in my life, I also felt I had perhaps exhausted the possibility of finding new details or new perspectives. I was certainly fortunate to be able to take the time to attend so closely to the snakes, but, at least at first, I felt very unlucky about the project that nominated itself to me. One silver lining of pandemic-era writing is the incredibly creative ways  array of some people produced amazing of noticing and connection. I, on the other hand, was dealing with what seemed like an absurd number of snakes. We have a forested area just beyond our house, and beyond that is a busy road. I bought a snake grabber and some buckets. In the summer of 2020, I relocated 20 copperheads to a local nature preserve. (I had to look up how many venomous snakes I could transport at a given time without a license). I joined the NC Herpetological Society. In 2021, I relocated 15 more snakes and started walking through the yard with a flashlight and a camera to more closely observe snake behavior. The number of snakes in the yard seemed so endless at that time that I honestly did not think very much about ecological impact. Throughout this process, I wrote in composition books left over from my kids' school supplies. I didn't understand this writing to have much significance at the time, and I lost the first book.
+
+I sought advice locally and read and reread the _Autecology_, which I liked because of the way it presented detailed scientific research while also seeming like a strange endurance art project. Plus, it was full of anecdotes. According to Fitch, I seemed to be doing the right thing:
 
 > Because of its small size, sluggish and secretive and nocturnal habits, and highly developed cryptic coloration, the copperhead has survived in areas densely populated with humans, even in the suburbs of large cities. Where it is abundant in such situations, it may constitute a hazard to small children, and should be controlled locally. Recommended control measures include removal or reduction of the available food and shelter, and heavy spraying in spring and fall, with concentrated solutions of insecticides at the crevices and fissures in rock outcrops wehre the snakes are known to hibernate.
 
-Like many scientists, Fitch clearly cares for the creatures he studies, and he subtly advocates for the copperhead throughout the book, making arguments by placing anecdotal evidence alongside more standard scientific evidence and his own experience:
+Like many scientists, Fitch clearly cares for the creatures he studies, and while he talks of control when absolutely necessary, he unsubtly advocates for the copperhead throughout the book. He makes arguments by placing anecdotal evidence alongside more standard scientific evidence and his own experience:
 
 > In localities where copperheads are scarce they are more feared. Persons in suburban communities, who lack first-hand familiarity with snakes, and know the copperhead only by its fearsome reputation, are those most affected. Oliver (1958:46) stated: "It is no exaggeration to say that there are thousands of people around the New York area alone who are terrified by the possibility of an encounter with a Copperhead. Last year I was consulted by two different persons who were considering selling their homes because of reports of Copperheads on their property. One lived in a section where no Copperheads had been found in twenty years, but a large milk snake was killed in her yard by a policeman who said it was Copperhead. (247)
 
-As I began to feel more in control of the snake problem, I started to notice more details about Fitch's writing, and I felt authorized to imitate and experiment with the ways he documented snake activity as a scientist. Several features of his project appealed to me: it isn't flashy, it requires long-term investment, it highlights unsual or unexpected care practices, and it is real experimental science but still strongly inflected by natural history. I also felt authorized to imagine my own particular response to the situation unfolding in my yard and my place in a highly specific ecosystem:    
+As I began to feel more in control of the snake problem, I started to notice details about Fitch's unpretentious snake writing that I really liked, and I felt authorized to imitate and experiment with the ways he documented snake activity as a scientist. Several features of his project appealed to me: it isn't flashy, it requires long-term investment, it highlights unusual or unexpected care practices, and it involves real experimental science that is still strongly inflected by natural history. I also began to feel authorized to imagine my own response to the situation unfolding in my yard and my place in a highly specific ecosystem:    
 
 > To my knowledge the copperhead has never been subjected to systematic control operations, but in the course of my field work I received several inquiries as to how such control operations should be carried out. Details of the copperhead's natural history and ecology such as those set forth in this report provide a background essential in the planning of any control. (251)
 
-In other words, I started to get beyond a strict reading of Fitch's work and its historical context in order to rethink 
+In other words, I started to get beyond a strict reading of Fitch's work and its historical context and really did allow myself to reimagine it as an endurance art project. In fact, I could hardly articulate what it was that I was doing during what had become an annual "July project" because the practical details obscured my ability to really understand my goals. Surmounting practical problems became the project, and Fitch couldn't help me. To my knowledge, he didn't do a long-term study of the nocturnal routines of copperheads.
+
+Then, mole hills exploded throughout the yard in spring 2022, and for the first time, I started to worry no snakes would return to the yard. In July 2022, I didn't relocate any snakes. Only 3 different copperheads were observed in the yard. I observed them more carefully than in previous years, noting subtle differences in their markings. Though I was on crutches at the time, though, so, again, the practicality of observation . If I wanted to observe the snakes closely, then I would have to deal with being "louder" and slower than usual. Nonetheless, I recorded voice notes of my observations and shared them with friends. I listened closely to the sound of the cicadas in the background of these notes. I 
+
+It is probably worth stating outright that - the risk . While . In fact, his extended description in the section of the _Autecology_ titled "Case History of a Bite"&mdash;in which he documents a bite he received while trying to move a snake&mdash;is a highlight of the work:
+
+> At 10:00 p.m. pulse was 58 (normal) and temperature was 99.0. Swelling had progressed to a level about [2.5] inches above the wrist, with slight accompanying discoloration. By 10:15 p.m. swelling had progressed to a level about four inches above the wrist. The throbbing pain in the palm was still severe and extended back along the lower side of the arm to the elbow. One-fourth grain of codeine and a glass of milk were taken. At 10:30 p.m. respiratory congestion had become noticeable. An antihistimine (Chlorotrymatron) was taken to counteract these symptoms; pulse 50. At 10:45 p.m. pain had reached its maximum, and was intense in the palm near the base of the middle finger, extending back as far as the elbow .... On the following morning systemic symptoms had largely disappeared. The bitten hand had swollen to nearly twice normal size and swelling extended slightly above the elbow. Swelling and soreness in the afflicted hand and elbow subsided slowly, and it was nearly a month before normal use of the hand was regained. (265)
+
+If I were to receive a bite while relocating a snake, it might garner some sympathy. If I were to receive a bite while doing my nightly walk through the yard, I suspect I would receive less sympathy. Why engage in a "scientific" project like this if it isn't producing any new knowledge about nocturnal snake behavior? (asks the scientist) Is this all just an elaborate and warped recreation of Vito Acconci's _Following Piece?_ (asks the artist) When does it all go too far? Or, in other words, how do strange daily practices become naturalized, and what conditions might lead those practices to be finally exhausted or replaced?
+
+
+
+While it may seem foolish to follow snakes around the yard as if I were recreating a warped version of
+
+
+
+Through this process, I developed a strong interest in the 
+
+Yet, the most significant - beset
+
+In a section titled "Senses Beyond Imagination," the authors offer a simple :
+
+> There are two pits above a rattlesnake's mouth that are sensitive to very small changes in temperature. We sense temperature too, but whereas we have about three heat-sensitve points per square centimeter on our skin, the rattlesnake has more than 150,000 on its pit organ which is located just under its eyes. With that organ it can distinguish differences of a few tenths of a degree centigrade and can pick out things the way a bat can with sound. Even lizards disguised as leaves, mmotionless, with little scent or sound aren't safe. The snake senses the change in temperature caused by their body (30).
+
+I became fascinated with the way pit vipers sense difference and sameness - 
+
+What I was observing was the nocturnal behavior of copperheads. Fitch barely mentions this behavior, though of course it is well documented elsewhere. I was never observing sluggish or ornery snakes. Rather, I 
 
 and its . He 
-
+Mole hills exploded throughout the yard in spring 2022, and I started to worry there wouldn't be any snakes. In July 2022, I didn't relocate any snakes. Only 3 different copperheads were observed in the yard. Mole hills had exploded throughout the yard.
 Heavily influenced by Fitch's use of anecdotal evidence alongside more standard scientific practices.
 
-I didn't set out to start a writing project. 
+I didn't set out to start a writing project. I followed the project that emerged. 
 
 I could distinguish different snakes by their patterns and markings, 
 
 Working in dialogue with Henry S. Fitch’s _Autecology of the Copperhead_ (1960) and _A Kansas Snake Community_ (1999) and drawing on practices both within and outside scientific knowledge making, _Another Autecology of the Copperhead_ is an experimental rewriting project that involves following nocturnal pit viper routines in my yard each summer. My goal is to track a particular species relationship through a series of new technical and epistemological ecologies.
 
-_Autecology of the Copperhead_ is a longterm ecological study of a particular snake species on the University of Kansas Natural History Reservation. Henry S. Fitch his fieldwork and known for his . Fitch's work on snakes contributing to conservation efforts and rethinking the dangerousness of copperheads. Natural history Discussion of snake anatomy, the public response to snakes, Taking into account the copperhead's natural history and ecology, Fitch sets out to study controversial organism, ultimately dedicating much of his career to this creature.
-
-
+A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
 
 He advocates for the copperhead throughout the book. 
 
-When walking in the yard, I try to have a gentle presence and step softly. While it may seem foolish to follow snakes around the yard as if I were recreating a warped version of Vito Acconci's _Following Piece_, 
+When walking in the yard, I try to have a gentle presence and step softly.
 
 , how to approach photography at night, how to  The project has been concerned with practical issues throughout -- how to -- tracking snakes, making interventions into the ecosystem -- grappling with the consequences of those actions. For example, In July 2022, I was on crutches and only just beginning to bear weight on my right leg, which created its own observational constraints
 
@@ -59,7 +85,7 @@ less invested in replicating the actual practice of autecology and more invested
 
 {{< figure src="/images/ktwebsite.png" alt="ktwebsite" class="right" >}}
 
-A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
+
 
 Fitch addresses how anecdotal evidence serves to help and harm the case of the copperhead:
 
@@ -74,15 +100,11 @@ I like to think he would approve.
 
 Yet, the project is also a little bit absurd. In the summer of 2020, First, it meant identifying the window (the month of July). Then, it meant 
 
-Case history of copperhead bite he received. 
-
-> At 10:00 p.m. pulse was 58 (normal) and temperature was 99.0. Swelling had progressed to a level about [2.5] inches above the wrist, with slight accompanying discoloration. By 10:15 p.m. swelling had progressed to a level about four inches above the wrist. The throbbing pain in the palm was still severe and extended back along the lower side of the arm to the elbow. One-fourth grain of codeine and a glass of milk were taken. At 10:30 p.m. respiratory congestion had become noticeable. An antihistimine (Chlorotrymatron) was taken to counteract these symptoms; pulse 50. At 10:45 p.m. pain had reached its maximum, and was intense in the palm near the base of the middle finger, extending back as far as the elbow .... On the following morning systemic symptoms had largely disappeared. The bitten hand had swollen to nearly twice normal size and swelling extended slightly above the elbow. Swelling and soreness in the afflicted hand and elbow subsided slowly, and it was nearly a month before normal use of the hand was regained. (265)
-
 Taking on a durational project. How does one register changes in the landscape of home? What kinds of events and repetitions would have to happen to make change visible? How do scientific and poetic forms of repetition relate to each other?
 
 I take off from Fitch's patient in a rewriting project - Insofar as the project has materialized as one that The pits on the copperhead - 
 
-My sense of experiment is heavily inflected by French philosophy of science (particularly the work of Cavaillès and Ruyer) and how one makes unintuitive information legible.  bringing the non-intuitive into contact with the human senses” augmentation 
+My sense of experiment is heavily inflected by French philosophy of science (particularly the work of Cavaillès and Ruyer) and developing processes by which one can make unintuitive information legible to an audience. This project has certainly changed the way I relate to my sense of home as well as my sense of what "autecology" can be in the context of experimental science writing. I understand it to be a process of augmentation in an immersive space.   bringing the non-intuitive into contact with the human senses” augmentation 
 
 What I am suggesting is that this durational project changed the way I relate to my sense of home. I also "talk" to snakes by reimagining the _Autecology_ until someone else can also read the relationship between letters anew.
 
