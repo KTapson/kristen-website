@@ -40,18 +40,16 @@ It is probably worth stating outright that - the risk . While . In fact, his ext
 If I were to receive a bite while relocating a snake, it might garner some sympathy. If I were to receive a bite while doing my nightly walk through the yard, I suspect I would receive less sympathy. Why engage in a "scientific" project like this if it isn't producing any new knowledge about nocturnal snake behavior? (asks the scientist) Is this all just an elaborate and warped recreation of Vito Acconci's _Following Piece?_ (asks the artist) When does it all go too far? Or, in other words, how do strange daily practices become naturalized, and what conditions might lead those practices to be finally exhausted or replaced?
 
 
+When walking in the yard, I try to have a gentle presence and step softly.
+
+Working in dialogue with Henry S. Fitch’s _Autecology of the Copperhead_ (1960) and _A Kansas Snake Community_ (1999) and drawing on practices both within and outside scientific knowledge making, _Another Autecology of the Copperhead_ is an experimental rewriting project that involves following nocturnal pit viper routines in my yard each summer. My goal is to track a particular species relationship through a series of new technical and epistemological ecologies.
+
+A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
+
+I made some kitschy collages to illustrate the ways in which I understood myself to be reinterpreting the fundamentals of Fitch's approach to studying snake ecology. The environment 
+
 
 While it may seem foolish to follow snakes around the yard as if I were recreating a warped version of
-
-
-
-Through this process, I developed a strong interest in the 
-
-Yet, the most significant - beset
-
-In a section titled "Senses Beyond Imagination," the authors offer a simple :
-
-> There are two pits above a rattlesnake's mouth that are sensitive to very small changes in temperature. We sense temperature too, but whereas we have about three heat-sensitve points per square centimeter on our skin, the rattlesnake has more than 150,000 on its pit organ which is located just under its eyes. With that organ it can distinguish differences of a few tenths of a degree centigrade and can pick out things the way a bat can with sound. Even lizards disguised as leaves, mmotionless, with little scent or sound aren't safe. The snake senses the change in temperature caused by their body (30).
 
 I became fascinated with the way pit vipers sense difference and sameness - 
 
@@ -65,48 +63,23 @@ I didn't set out to start a writing project. I followed the project that emerged
 
 I could distinguish different snakes by their patterns and markings, 
 
-Working in dialogue with Henry S. Fitch’s _Autecology of the Copperhead_ (1960) and _A Kansas Snake Community_ (1999) and drawing on practices both within and outside scientific knowledge making, _Another Autecology of the Copperhead_ is an experimental rewriting project that involves following nocturnal pit viper routines in my yard each summer. My goal is to track a particular species relationship through a series of new technical and epistemological ecologies.
-
-A difficult study to define because of the nearly constant intervention of . In a sense, the project has become the process of working through the difficulties of establishing some Genuine interest in exploring literal forms of snake writing. Taking cues from Vinciane Despret's _What Would Animals Say if We Asked the Right Questions_, how to have meaningful interspecies interactions as well as how to 
-
-He advocates for the copperhead throughout the book. 
-
-When walking in the yard, I try to have a gentle presence and step softly.
 
 , how to approach photography at night, how to  The project has been concerned with practical issues throughout -- how to -- tracking snakes, making interventions into the ecosystem -- grappling with the consequences of those actions. For example, In July 2022, I was on crutches and only just beginning to bear weight on my right leg, which created its own observational constraints
 
 Throughout most of the area it inhabits, the copperhead is, in varying degrees, hated and feared. Although, of course, attitudes toward snakes differ greatly among different persons in the same community, the copperhead is, in general accepted rather casually" (246).
 
-
-
 One way to approach _Another Autecology_ might have been to simply apply Fitch's work. He does state 
 
-less invested in replicating the actual practice of autecology and more invested in developing a writing practice and designing an experience that can 
+I am less invested in replicating the actual practice of autecology and more invested in developing a writing practice and designing an experience that can 
 
 {{< figure src="/images/ktwebsite.png" alt="ktwebsite" class="right" >}}
 
 
-
-Fitch addresses how anecdotal evidence serves to help and harm the case of the copperhead:
-
-
-
-
-I do wonder how Fitch would characterize the risks associated with my investigation. Is the attempt to __ and intervene into  worth the risks?
-
-> The circumstances under which copperhead bites are sustained often illustrate complete lack of caution or failure to comprehend and avoid the danger, on the part of the persons who are bitten. Bites are often inflicted on the bare feet or ankles, and often the victims are walking in the dark in places where snakes might be expected to roam.
-
-I like to think he would approve. 
-
-Yet, the project is also a little bit absurd. In the summer of 2020, First, it meant identifying the window (the month of July). Then, it meant 
-
 Taking on a durational project. How does one register changes in the landscape of home? What kinds of events and repetitions would have to happen to make change visible? How do scientific and poetic forms of repetition relate to each other?
 
-I take off from Fitch's patient in a rewriting project - Insofar as the project has materialized as one that The pits on the copperhead - 
+I take off from Fitch's patient in a rewriting project 
 
-My sense of experiment is heavily inflected by French philosophy of science (particularly the work of Cavaillès and Ruyer) and developing processes by which one can make unintuitive information legible to an audience. This project has certainly changed the way I relate to my sense of home as well as my sense of what "autecology" can be in the context of experimental science writing. I understand it to be a process of augmentation in an immersive space.   bringing the non-intuitive into contact with the human senses” augmentation 
-
-What I am suggesting is that this durational project changed the way I relate to my sense of home. I also "talk" to snakes by reimagining the _Autecology_ until someone else can also read the relationship between letters anew.
+My sense of experiment is heavily inflected by French philosophy of science (particularly the work of Cavaillès and Ruyer) and my work in the Speculative Sensation lab at Duke. That is, I am driven by a desire to develop processes by which one can make unintuitive information legible. The snake project has certainly changed the way I relate to my sense of home as well as my sense of what "autecology" can be as a mode of experimental science writing. But at the level of communication, I understand it to be engaged with phenomenalization of the otherwise unknowable. In effect, it offers new models of connection that leverage the poetic function of technology rather than treating technology as a medium for poetics. As a project that emerged in the pandemic, I think of _Another Autecology_ as fundamentally concerned with studying how one responds to crisis. Certainly, this changing, durational experiment has shifted the way I relate to my sense of home. It has radically defamiliarized and then refamiliarized what I know. At the level of language, it has sparked my interest in reading the relationship between letters anew.
 
 {{< figure src="/images/copperheads2.png" alt="copperheads2" >}}
 
