@@ -11,10 +11,10 @@
   url = "/books/"
 
   [[main]]
-  name = "Studies"
-  weight = 300
-  identifier = "studies"
-  url = "/studies/"
+  #name = "Studies"
+  #weight = 300
+  #identifier = "studies"
+  #url = "/studies/"
 
   [[main]]
   name = "Teaching"
