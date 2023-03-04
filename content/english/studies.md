@@ -54,10 +54,10 @@ Lozano takes science seriously. And she takes play with scientific concepts and 
 
 Despite multiple references in her notebooks to various conditions that would lead her to give up painting, she seems genuinely inspired by everything. And sometimes that tendency toward inspiration and ideation gets in the way of expected etiquette. Reporting on a conversation with Richard Serra, her friend and an artist she respects, for example, she gives a somewhat brutal review of the opening of his solo exhibition at Castelli Warehouse in late 1969 that includes her thoughts on what she would have done differently. 
 
-> <ins> Dec 16, 69</ins>.  
+> <ins> Dec 16, 69</ins>  
 Serra’s warehouse show did not give a trip. Some of the pieces were exciting & most of the people were uptight (till I passed the grass, maybe.) The show looked like “art floor,” dept store. (Why not set up that show in a real warehouse with huge crates or such?). Ropes made it worse.
 >
-> <ins> Dec 17, 69</ins>.  
+> <ins> Dec 17, 69</ins>    
 Serra called & I told him some of this but not the real warehouse idea which I just now got. (Bk 5, p. 15-16)
 
 Her notes also indicate rapid shifts in her fortune as an artist as well as the degree to which her projects contribute to her well-being or not. Following an enthusiastic proposal for a utopian project and clear hopefulness about its realization, for example, her work takes a sharp turn:
@@ -96,7 +96,7 @@ Lozano clearly never invests much in the culture of celebrity or fame, and despi
 >"Science is practical in the highest sense of the word."   
 >&mdash; J.H. van't Hoff, _Imagination in Science_
 
-For a long time, I have been fascinated with molecular shape. Alkenes are planar. Carbons are tetrahedral. Relatedly, I am drawn to a particular moment in the history of science: the emergence of stereochemistry as a field within structural organic chemistry in the late nineteenth century. With the proposal for the tetrahedral shape of carbon, J.H. van't Hoff intervened into the trajectory of the discipline, making consideration of the spatial arrangement of atoms (rather than just connectivity) into a new fundamental on which to build an understanding of molecular interactions and reactivity. New terms emerged, like "enantiomer" and "chirality." Later, this proposal would become a new basis for modern biochemistry, as the body is composed of single-enantiomer chiral molecules&mdash;meaning these molecules are nonsuperimposable mirror images and therefore have a particular fundamental orientation in space, like the right and left hand. See also: Robert Smithson's _Enantiomorphic Chambers_ (1965).
+For a long time, I have been fascinated with molecular shape. Alkenes are planar. Carbons are tetrahedral. Relatedly, I am drawn to a particular moment in the history of science: the emergence of stereochemistry as a field within structural organic chemistry in the late nineteenth century. With the proposal for the tetrahedral shape of carbon, J.H. van't Hoff intervened into the trajectory of the discipline, making consideration of the spatial arrangement of atoms (rather than just connectivity) into a new fundamental on which to build an understanding of molecular interactions and reactivity. New terms emerged, like "enantiomer" and "chirality." Later, this proposal would become a new basis for modern biochemistry, as the body is composed of single-enantiomer chiral molecules&mdash;meaning molecules that are nonsuperimposable mirror images and therefore have a particular fundamental orientation in space, like the right and left hand. See also: Robert Smithson's _Enantiomorphic Chambers_ (1965).
 
 In the language of organic chemistry, connectivity dictates shape&mdash;connectivity is analogous to shape&mdash;and without its thorough consideration, one cannot understand the bigger picture of higher order function and meaning. I am motivated to return to fundamental considerations of the matter of language, scientific experiment, and a broad concept of shape beyond the referential field of the human, on the one hand, as well as a commitment to exploring the concepts of conservation, pataphysics, and the recycling of scientific concepts, on the other. With this motivation in mind, I conceptualized a project, which I plan to present alongside student work in the spring exhibition for our [Laboratory Art in Practice](https://bassconnections.duke.edu/project-teams/laboratory-art-practice-building-model-artscience-lab-duke-2022-2023) Bass Connection team, that returns not only to the details of van't Hoff's theory of the tetrahedral carbon as a site for proliferating concepts of reading and poetic meaning-making but also to the way he shared his theory &mdash;foldable cardboard models sent through the mail&mdash;to convince other scientists of the validity of his proposal. Essentially, my intention is to take the groundwork of his theory seriously in a completely different context. The stakes are an alphabet of relations.
 
@@ -156,9 +156,3 @@ Following this comparison between the experimental contributions of Vauquelin an
 Henry S. Fitch, [_Autecology of the Copperhead_(1960)](https://webapps.fhsu.edu/ksherp/bibFiles/6437.pdf); Lee Lozano, _Language Pieces_ (2018); Lee Lozano's Private Books (pub. 2021); Alan J. Rocke, [_The Quiet Revolution_ (1993)](https://publishing.cdlib.org/ucpressebooks/view?docId=ft5g500723;query=;brand=ucpress); J.H. van't Hoff, [_Imagination in Science_](https://link.springer.com/chapter/10.1007/978-3-662-38565-4_3) 
 
 Image sources: Edward Packard's _You are a Shark_ (1985); May 14, 1968 note in Lozano's _Private Book 1_ ("Artist's Statement: Terseness"); plate 20 from Fitch's _Autecology_; July 12, 2021 copperhead photo by Kristen Tapson; Oct. 13, 1969 note in Lozano's _Private Book 4_; cover of a personal copy of _Imagination in Science__
-
-
-
-
-
-
