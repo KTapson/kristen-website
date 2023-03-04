@@ -162,7 +162,7 @@ Imagination, van't Hoff argues, "plays a role both in the ability to do scientif
 
 Finally, van't Hoff turns to the current state of scientific research, arguing that the expanding field of researchers changes both the pathway to scientific discovery and the role of the imagination in conducting scientific work. Imagination has become less necessary to the scientific enterprise: "If the diaphragm, which plays the predominant role in breathing, is artificially paralyzed, then the chest takes over for a while the work of the diaphragm as best it can. If imagination is lacking, then one tries by other means to compensate for this deficiency" (17).
 
-He concludes the talk with a comparison between two scientists:
+And yet, imagination still matters. He concludes the talk with a comparison between two scientists:
 
 > At the end of a biography CUVIER once compared two great chemists, VAUQUELIN and DAVY; he expressed himself         about as follows: “Notwithstanding his innumerable investigations and in spite of the important and noteworthy     observations with which VAUQUELIN enlarged the stock of scientific knowledge, he cannot be considered as of the     same caliber as DAVY. The former put his name in the paragraphs; the latter in the titles of each chapter. In a     completely unpretentious manner, the former observed with a lantern the smallest obscurities and penetrated into the darkest nooks; the latter ascended like an eagle and illuminated the large realm of physics and           chemistry with a shining beacon.” (18)
     
