@@ -87,7 +87,7 @@ Two themes in Lozano's writing are of particular interest to me: her invocations
 
 Here, she is likely registering a connection between oil paints and oil-based foods, and she seems to instinctively rethink that connection in terms of how they might be juxtaposed to produce forms of literal _and_ figurative transparency. Lozano repeatedly expresses interest in accessing the inside of the "human container" in new ways. That is, she clearly values a straightforward definition of transparency even as she seems to acknowledge the layers of mediation or augmentation that might be necessary to achieve it. One aspect of her work that interests me quite a lot is the way she seeks alternatives to language for communicating what is happening inside the body emotionally or physically. She seems motivated by a desire to access every scale of experience and to create novel ways of scaffolding and networking communication between interior and exterior.
 
-{{< figure src="/images/LL1Page6.jpg" alt="LL1Page6" class="right" >}}
+{{< figure src="/images/LL1Page6.jpg" alt="LL1Page6" class="left" >}}
 
 In keeping with Lozano's investment in physical science generally and molecular and atomic scales more specifically, though, she is amusingly unconvinced by any suggestion of the human form's evolutionary excellence:
 
