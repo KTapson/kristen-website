@@ -5,7 +5,7 @@ title = "News"
 The **et al lab** is offering a summer 2023 opportunity for Duke students interested in helping to conceptualize and instantiate a small press publishing component for the lab. Our goal for the summer is to further develop the concepts below, to put out a call for our first zine publication, and to complete one publishing project. Students interested in design and printmaking are particularly encouraged to reach out.
 
 
-***dissolving inquiries*** is an effort to open circulation channels for sharing historical materials related to science with artists and writers exploring practices of scientific research in their work, from basic science to biotech. *dissolving inquiries* has three foci, which together aim to manifest key aspects of the et al lab mission:
+***dissolving inquiries*** is an effort to open circulation channels for sharing historical materials related to science with artists and writers exploring practices of research in their work, from basic science to biotech. *dissolving inquiries* has three foci, which together aim to manifest key aspects of the et al lab mission:
 
 1. reprinting significant documents in the history of science that are currently difficult for artists to find or access 
 2. curating documents such as lab notebook pages, protocol sheets, correspondence, and oral histories (current and historical) that highlight scientific work that may otherwise go unspecified and uncredited 
