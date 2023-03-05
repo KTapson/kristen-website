@@ -16,7 +16,7 @@ In our early work, we hope to coalesce an audience around the materials and labo
 To begin, we plan to work through the permission process to print a recent English translation of J.H. van’t Hoff’s short 1874 pamphlet titled _A Suggestion Looking to the Extension into Space of the Structural Formulas at Present Used in Chemistry. And a Note Upon the Relation Between the Optical Activity and the Chemical Constitution of Organic Compounds._ This significant pamphlet in the history of science was originally published in Dutch and then later published in French as _La Chimie dans l’espace_ (Chemistry in Space) and in German as _Die Lagerung der Atome im Raume_ (The Arrangement of Atoms in Space), though the later versions include significantly more supplemental material.
 
 
-{{< figure src="/images/improper_protocols_prototype.jpg" alt="improper_protocols_prototype" class="left" >}}
+{{< figure src="/images/improper_protocols_prototype.jpg" alt="improper_protocols_prototype" caption="zine prototype" class="left" >}}
 
 ***improper protocols*** is a student-led zine concerned with exploring images of scientific and artistic impropriety: scenes of messiness, misplacement, displacement, and play.
 
