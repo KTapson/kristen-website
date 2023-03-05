@@ -145,7 +145,7 @@ Kolbe elsewhere rails against August Kekulé&mdash;who is now perhaps most well 
 
 > And as for the form, I ask you: What do you care about Kekulé's style or his classical education? Consideration for K's scientific accomplishments, indeed mere collegial respect ought to have stopped you from treating this man as if you were a teacher looking over a schoolboy's assignments and correcting his mistakes .... I beseech you, no more such intemperate critiques! More tolerance and respect for scientists who have made and are still making their contributions! (332)
 
-Time and time again, Kolbe begins with an assumption about the right answer and correct outcome, then he exerts his authority and control to enforce his worldview regardless of the cost. But, importantly here, he ends up being wrong about the science. A new field was opening up.  
+Time and time again, Kolbe begins with an assumption about the right answer and correct outcome, then he exerts his authority and control to enforce his worldview regardless of the cost. But, importantly here, he ends up being wrong about the science. A new field was taking hold.  
 
 {{< figure src="/images/imagination_in_science.jpg" alt="Imagination in Science cover" class="right" >}}
 
