@@ -23,16 +23,16 @@
   url = "/teaching/"
 
   [[main]]
-  name = "News"
-  weight = 500
-  identifier = "news"
-  url = "/news/"
-
-  [[main]]
   name = "Affiliations"
   weight = 600
   identifier = "affiliations"
   url = "/affiliations/"
+  
+    [[main]]
+  name = "News"
+  weight = 500
+  identifier = "news"
+  url = "/news/"
 
   [[footer]]
   #name = "imprint"
