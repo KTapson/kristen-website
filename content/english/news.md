@@ -17,6 +17,7 @@ To begin, we plan to work through the permission process to print a recent Engli
 
 {{< figure src="/images/improper_protocols_prototype.jpg" alt="improper_protocols_prototype" class="left" >}}
 
+
 ***improper protocols*** is a student-led zine concerned with exploring images of scientific and artistic impropriety: scenes of messiness, misplacement, displacement, and play.
 
 In every lab manual/training/experimental protocol, there exist a set of do’s and don’ts. Do follow protocol, do measure and record, but don’t make mistakes, and don’t play around. Accidental impropriety can be very costly in the scientific world. But what happens when impropriety is deliberate? What happens if we place value on the practices and aesthetics of laboratory messiness and playfulness? In the process, we might ask: what does breaking protocol have to do with recording or apprehending experiential qualities of research? What details are lost in the strict following of protocol? How does breaking protocol differently orient or attune us to a particular experimental arrangement or laboratory space? *improper protocols* does not set out to challenge laboratory protocols themselves but rather to challenge the deliberateness of protocol while keeping in mind the dangers and discoveries that might accompany impropriety.
