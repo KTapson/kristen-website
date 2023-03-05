@@ -6,8 +6,8 @@ Kristen Tapson is a scholar-in-residence in the Department of Art, Art History a
 
 Current affiliations include:
 
-* [Duke et al lab](https://etal-lab.org)
-* [Minecraft Block Party](https://minecraftblockparty.org)
+* [Duke et al lab]
+* [Minecraft Block Party]
 * [Speculative Sensation Lab (s-1)](https://s-1lab.org/)
 * [Society for Literature, Science & the Arts](https://litsciarts.org/)
 * [Network for New York School Studies](https://www.nnyss.org/)
