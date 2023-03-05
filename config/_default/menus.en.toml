@@ -24,13 +24,13 @@
 
   [[main]]
   name = "Affiliations"
-  weight = 600
+  weight = 500
   identifier = "affiliations"
   url = "/affiliations/"
   
-    [[main]]
+  [[main]]
   name = "News"
-  weight = 500
+  weight = 600
   identifier = "news"
   url = "/news/"
 
