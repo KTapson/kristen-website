@@ -23,8 +23,14 @@
   url = "/teaching/"
 
   [[main]]
+  #name = "News"
+  #weight = 500
+  #identifier = "news"
+  #url = "/news/"
+
+  [[main]]
   name = "Affiliations"
-  weight = 500
+  weight = 600
   identifier = "affiliations"
   url = "/affiliations/"
 
