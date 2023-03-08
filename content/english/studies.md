@@ -177,8 +177,6 @@ Following this comparison between the experimental contributions of Vauquelin an
     
 > I make these words my own in order to describe what research is without imagination, and what it can be if one uses  it in an admissible manner. VAUQUELIN did not appear in the two classifications above; DAVY, however, did in both as poet as well as visionary. His discoveries were the fruits of that great gift which [H.T.] BUCKLE describes: "There is a spiritual, a poetic, and for aught we know a spontaneous and uncaused element in the human mind, which ever and anon, suddenly and without warning, gives us a glimpse and a forecast of the future, and urges us to seize the truth as it were by anticipation." (18)
 
-The inaugural lecture is inspired and filled with gratitude for the work of many others across fields. This is not the work that wins van't Hoff the Nobel Prize, though.
-
 **Sources**
 
 Henry S. Fitch's _Autecology of the Copperhead_ (1960); Lee Lozano's _Language Pieces_ (2018); Lee Lozano's Private Books (wr. 1968-70, ed. 1972; pub. 2021); Alan J. Rocke's _The Quiet Revolution_ (1993); J.H. van't Hoff's _Imagination in Science_ (pub. 1967)
