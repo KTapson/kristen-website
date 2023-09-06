@@ -27,12 +27,6 @@
   weight = 500
   identifier = "affiliations"
   url = "/affiliations/"
-  
-  [[main]]
-  name = "News"
-  weight = 600
-  identifier = "news"
-  url = "/news/"
 
   [[footer]]
   #name = "imprint"
